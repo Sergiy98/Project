@@ -1,0 +1,5 @@
+.my_class {
+    background:url(img/mars.jpg) no-repeat;
+    padding-top:100px;
+    background-size:cover;
+}
