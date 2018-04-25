@@ -1,7 +1,6 @@
 @orange: #FD7013;
 @white: #ffffff;
 
-
 body {
   background-color: #1d1d1d;
   font-family: Open Sans, sans-serif;
@@ -88,6 +87,7 @@ header {
   .button {
     text-align: center;
     margin-top: 250px;
+
   }
 }
 
@@ -106,7 +106,14 @@ header {
       .words_about_us {
         font-size: 34px;
         padding-left: 20px;
-        border-bottom: solid 2px @orange;
+        padding-bottom: 3px;
+        box-sizing: border-box;
+
+        &:hover {
+
+          box-sizing: border-box;
+          border-bottom: solid 1px @orange;
+        }
       }
 
       .some_text {

@@ -83,7 +83,12 @@ header .button {
 #about_us .conteiner .right_side .words_about_us {
   font-size: 34px;
   padding-left: 20px;
-  border-bottom: solid 2px #fd7013;
+  padding-bottom: 3px;
+  box-sizing: border-box;
+}
+#about_us .conteiner .right_side .words_about_us:hover {
+  box-sizing: border-box;
+  border-bottom: solid 1px #fd7013;
 }
 #about_us .conteiner .right_side .some_text {
   font-size: 18px;
