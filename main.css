@@ -1,5 +1,165 @@
-.my_class {
-    background:url(img/mars.jpg) no-repeat;
-    padding-top:100px;
-    background-size:cover;
+body {
+  background-color: #1d1d1d;
+  font-family: Open Sans, sans-serif;
+  padding: 0;
+  margin: 0;
+}
+header {
+  background: url("img/Tint.jpg") no-repeat center top / cover;
+  padding-bottom: 20px;
+}
+header .conteiner {
+  width: 1100px;
+  margin: 0 auto;
+}
+header .conteiner .clearfix:after {
+  content: '';
+  display: table;
+  width: 100%;
+  clear: both;
+}
+header .conteiner span {
+  float: left;
+  display: block;
+  color: white;
+  text-transform: uppercase;
+  font-size: 18px;
+  margin-top: 50px;
+}
+header .conteiner nav {
+  float: right;
+  margin-top: 54px;
+}
+header .conteiner nav .menu {
+  padding: 0;
+  margin: 0;
+  display: block;
+}
+header .conteiner nav .menu li {
+  float: left;
+  display: block;
+  margin-right: 25px;
+}
+header .conteiner nav .menu a {
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+header .conteiner nav .menu a:hover {
+  color: #fd7013;
+  border-top: #92929e solid 2px;
+  border-bottom: #fd7013 solid 2px;
+}
+header .titles .title_first {
+  color: white;
+  font-size: 44px;
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 180px;
+}
+header .titles .title_first b {
+  color: #fd7013;
+}
+header .titles h5 {
+  font-size: 20px;
+  color: #c3c3c3;
+  text-align: center;
+}
+header .button {
+  text-align: center;
+  margin-top: 250px;
+}
+#about_us {
+  background-color: white;
+  padding-top: 100px;
+}
+#about_us .conteiner {
+  width: 1100px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+}
+#about_us .conteiner .right_side .words_about_us {
+  font-size: 34px;
+  padding-left: 20px;
+  border-bottom: solid 2px #fd7013;
+}
+#about_us .conteiner .right_side .some_text {
+  font-size: 18px;
+  color: #6c6c6c;
+  padding: 15px 0;
+}
+#about_us .conteiner .right_side .objectives {
+  font-size: 16px;
+  color: #6c6c6c;
+}
+#about_us .conteiner .right_side .objectives ul li {
+  padding-bottom: 15px ;
+}
+#about_us .conteiner .right_side .button {
+  color: #484543;
+  border-radius: 3px;
+  border: solid #7f7f7f 2px;
+  display: block;
+  width: 240px;
+  padding: 20px 0;
+  text-decoration: none;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 12px;
+}
+#about_us .conteiner .right_side .button:hover {
+  background-color: #fd7013;
+  color: white;
+}
+#meet_our_team .conteiner {
+  width: 1100px;
+  margin: 0 auto;
+  padding-top: 100px;
+}
+#meet_our_team .conteiner .main_text {
+  color: white;
+  font-size: 31px;
+  text-align: center;
+  text-transform: uppercase;
+}
+#meet_our_team .conteiner .small_border {
+  width: 100px;
+  border: #fd7013 2px solid;
+  margin: 20px auto 0 auto;
+}
+#meet_our_team .conteiner .smaller_border {
+  width: 65px;
+  border: #fd7013 1px solid;
+  margin: 5px auto 65px auto;
+}
+#meet_our_team .conteiner .cards {
+  display: flex;
+  flex-direction: row;
+}
+#meet_our_team .conteiner .cards .person {
+  color: #7f7f7f;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  color: white;
+  padding: 0 15px;
+  margin-bottom: 100px;
+}
+#meet_our_team .conteiner .cards .person img {
+  width: 125px;
+  margin: 0 auto 20px auto;
+}
+#meet_our_team .conteiner .cards .person .name {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+#meet_our_team .conteiner .cards .person .facts {
+  font-size: 16px;
+  margin-bottom: 35px;
+}
+#meet_our_team .conteiner .cards .person .bio {
+  font-size: 14px;
 }
