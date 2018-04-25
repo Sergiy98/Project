@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd327dd7-f119-4a77-bcf8-51372c3f565a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/103335549_1280x720.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Elon-Musk.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Solar-Panel-256.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/big_1498300032_image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/elon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/falcon-heavy-flat-128.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/if_tesla.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/mars.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/mars2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/puzzle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tesla-motors-logo.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.less" beforeDir="false" afterPath="$PROJECT_DIR$/main.less" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,8 +23,8 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1065">
-                  <caret line="57" column="44" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
+                <state relative-caret-position="628">
+                  <caret line="140" column="5" selection-start-line="140" selection-start-column="5" selection-end-line="140" selection-end-column="111" />
                 </state>
               </provider>
             </entry>
@@ -56,8 +45,8 @@
           <file leaf-file-name="main.less" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/main.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-232">
-                  <caret line="172" column="21" selection-start-line="172" selection-start-column="21" selection-end-line="172" selection-end-column="21" />
+                <state relative-caret-position="435">
+                  <caret line="362" column="6" selection-start-line="362" selection-start-column="6" selection-end-line="362" selection-end-column="6" />
                 </state>
               </provider>
             </entry>
@@ -157,12 +146,12 @@
       <updated>1524417889400</updated>
       <workItem from="1524417890881" duration="5378000" />
       <workItem from="1524511529299" duration="2740000" />
-      <workItem from="1524588019083" duration="16400000" />
+      <workItem from="1524588019083" duration="21140000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24518000" />
+    <option name="totallyTimeSpent" value="29258000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -262,15 +251,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1065">
-          <caret line="57" column="44" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
+        <state relative-caret-position="628">
+          <caret line="140" column="5" selection-start-line="140" selection-start-column="5" selection-end-line="140" selection-end-column="111" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-232">
-          <caret line="172" column="21" selection-start-line="172" selection-start-column="21" selection-end-line="172" selection-end-column="21" />
+        <state relative-caret-position="435">
+          <caret line="362" column="6" selection-start-line="362" selection-start-column="6" selection-end-line="362" selection-end-column="6" />
         </state>
       </provider>
     </entry>
